@@ -1,0 +1,4 @@
+.tgcloud/
+node_modules/
+tgcloud/endpoints/setConfig.js
+.env
